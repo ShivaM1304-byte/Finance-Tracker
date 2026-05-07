@@ -1,0 +1,388 @@
+date,description,amount,type,category,month,month_name,week,day_of_week
+2026-01-02,Vinod Kumar Amr,58.0,debit,Others,1,January,1,Friday
+2026-01-02,Shahid Yogesh P,300.0,debit,Others,1,January,1,Friday
+2026-01-02,Shivam  Pandey,2700.0,debit,Others,1,January,1,Friday
+2026-01-02,Powerlook,1175.0,debit,Others,1,January,1,Friday
+2026-01-03,Maa Annapurna D,10.0,debit,Others,1,January,1,Saturday
+2026-01-03,Google India Se,200.9,debit,Others,1,January,1,Saturday
+2026-01-03,Batulz Cakes An,520.0,debit,Others,1,January,1,Saturday
+2026-01-04,Barkat Caterers,150.0,debit,Others,1,January,1,Sunday
+2026-01-08,Vinod Kumar Amr,34.0,debit,Others,1,January,2,Thursday
+2026-01-09,Anita  Devi,36.0,debit,Others,1,January,2,Friday
+2026-01-09,Shahid Yogesh P,300.0,debit,Others,1,January,2,Friday
+2026-01-09,Anita  Devi,56.0,debit,Others,1,January,2,Friday
+2026-01-10,Mrs Savita Sham,20.0,debit,Others,1,January,2,Saturday
+2026-01-10,Rugved Chetan C,230.0,debit,Others,1,January,2,Saturday
+2026-01-10,Vinod Kumar Amr,54.0,debit,Others,1,January,2,Saturday
+2026-01-11,Mr  Shabir Shau,300.0,debit,Others,1,January,2,Sunday
+2026-01-11,Google India Se,380.9,debit,Others,1,January,2,Sunday
+2026-01-12,Shahid Yogesh P,300.0,debit,Others,1,January,3,Monday
+2026-01-13,Anita  Devi,36.0,debit,Others,1,January,3,Tuesday
+2026-01-13,Bk Washing Cent,70.0,debit,Others,1,January,3,Tuesday
+2026-01-13,Ashapura Medica,30.0,debit,Others,1,January,3,Tuesday
+2026-01-13,Gaming Kingdom,200.0,debit,Others,1,January,3,Tuesday
+2026-01-14,Anita  Devi,36.0,debit,Others,1,January,3,Wednesday
+2026-01-14,Gaming Kingdom,320.0,debit,Others,1,January,3,Wednesday
+2026-01-14,Vinod Kumar Amr,48.0,debit,Others,1,January,3,Wednesday
+2026-01-15,Anita  Devi,12.0,debit,Others,1,January,3,Thursday
+2026-01-15,New Chinmay Med,10.0,debit,Others,1,January,3,Thursday
+2026-01-15,Mohammad  Alam,50.0,debit,Others,1,January,3,Thursday
+2026-01-15,Google India Di,220.9,debit,Others,1,January,3,Thursday
+2026-01-16,CHRG:SMS ALERT FEE FOR THE MONTH OF DEC2,15.4,debit,Others,1,January,3,Friday
+2026-01-16,Kanekar Mangesh,100.0,debit,Others,1,January,3,Friday
+2026-01-16,Nanda Shankar P,44.0,debit,Others,1,January,3,Friday
+2026-01-16,Avenue Supermar,198.0,debit,Others,1,January,3,Friday
+2026-01-16,Dhiraj  Kumar,100.0,debit,Others,1,January,3,Friday
+2026-01-17,Apple Media Ser,75.0,debit,Others,1,January,3,Saturday
+2026-01-17,Md Moinuddin,10.0,debit,Others,1,January,3,Saturday
+2026-01-17,Mr Chandrika  Y,53.0,debit,Others,1,January,3,Saturday
+2026-01-17,Anita  Devi,32.0,debit,Others,1,January,3,Saturday
+2026-01-18,Chandrika Yadav,48.0,debit,Others,1,January,3,Sunday
+2026-01-18,Urban Chaat Fac,120.0,debit,Others,1,January,3,Sunday
+2026-01-19,Apple Media Ser,119.0,debit,Others,1,January,4,Monday
+2026-01-19,Shahid Yogesh P,250.0,debit,Others,1,January,4,Monday
+2026-01-20,S O  Sujumon,100.0,debit,Others,1,January,4,Tuesday
+2026-01-20,Shridhar Mahaba,30.0,debit,Others,1,January,4,Tuesday
+2026-01-20,Tejas Murugan P,200.0,debit,Others,1,January,4,Tuesday
+2026-01-21,Tata Play,401.0,debit,Others,1,January,4,Wednesday
+2026-01-21,Mr  Shabir Shau,80.0,debit,Others,1,January,4,Wednesday
+2026-01-22,Milan Gift And,275.0,debit,Others,1,January,4,Thursday
+2026-01-22,Shahid Yogesh P,250.0,debit,Others,1,January,4,Thursday
+2026-01-23,Sagar Harishank,200.0,debit,Others,1,January,4,Friday
+2026-01-23,Zepto Marketpla,115.45,debit,Groceries,1,January,4,Friday
+2026-01-25,Amazon India,1704.0,debit,Shopping,1,January,4,Sunday
+2026-01-25,Shivam  Pandey,200.0,debit,Others,1,January,4,Sunday
+2026-01-25,Hari Kishan Rai,500.0,debit,Others,1,January,4,Sunday
+2026-01-25,Mr  Shabir Shau,280.0,debit,Others,1,January,4,Sunday
+2026-01-27,Ahmed Sabir,50.0,debit,Others,1,January,5,Tuesday
+2026-01-28,Hritik Prakash,148.0,debit,Others,1,January,5,Wednesday
+2026-01-28,Dinesh Shelake,4076.0,debit,Others,1,January,5,Wednesday
+2026-01-29,Shahid Yogesh P,250.0,debit,Others,1,January,5,Thursday
+2026-01-29,M,20.0,debit,Others,1,January,5,Thursday
+2026-01-29,Anita  Devi,60.0,debit,Others,1,January,5,Thursday
+2026-01-29,Anita  Devi,36.0,debit,Others,1,January,5,Thursday
+2026-01-29,Shankar Shivaji,40.0,debit,Others,1,January,5,Thursday
+2026-01-30,Tejas Murugan P,55.0,debit,Others,1,January,5,Friday
+2026-01-31,Kombaiah K,90.0,debit,Others,1,January,5,Saturday
+2026-01-31,Pradnyesh Gunva,60.0,debit,Others,1,January,5,Saturday
+2026-01-31,Mr. Pramod Kuma,30.0,debit,Others,1,January,5,Saturday
+2026-01-31,Mohammad  Alam,36.0,debit,Others,1,January,5,Saturday
+2026-01-31,Shahid Yogesh P,110.0,debit,Others,1,January,5,Saturday
+2026-02-01,Mr Suresh Chand,38.0,debit,Others,2,February,5,Sunday
+2026-02-01,Shahid Yogesh P,110.0,debit,Others,2,February,5,Sunday
+2026-02-02,Frullato,160.0,debit,Others,2,February,6,Monday
+2026-02-02,Tejas Murugan P,100.0,debit,Others,2,February,6,Monday
+2026-02-03,Bookmyshow,267.18,debit,Entertainment,2,February,6,Tuesday
+2026-02-03,Coco Bp Khargha,200.0,debit,Others,2,February,6,Tuesday
+2026-02-03,Mr. Pramod Kuma,54.0,debit,Others,2,February,6,Tuesday
+2026-02-03,Mohammad  Alam,54.0,debit,Others,2,February,6,Tuesday
+2026-02-03,New Chinmay Med,50.0,debit,Others,2,February,6,Tuesday
+2026-02-04,Asadul Hoque,40.0,debit,Others,2,February,6,Wednesday
+2026-02-04,Console Ps   Pc,60.0,debit,Others,2,February,6,Wednesday
+2026-02-04,Tejas Murugan P,40.0,debit,Others,2,February,6,Wednesday
+2026-02-04,Tejas Murugan P,100.0,debit,Others,2,February,6,Wednesday
+2026-02-05,Chhagan Jiva So,25.0,debit,Others,2,February,6,Thursday
+2026-02-05,Mr. Pramod Kuma,24.0,debit,Others,2,February,6,Thursday
+2026-02-05,Shahid Yogesh P,120.0,debit,Others,2,February,6,Thursday
+2026-02-05,Mr Suresh Chand,63.0,debit,Others,2,February,6,Thursday
+2026-02-06,Hritik Prakash,500.0,debit,Others,2,February,6,Friday
+2026-02-06,Mr  Shabir Shau,250.0,debit,Others,2,February,6,Friday
+2026-02-06,White House Pan,17.0,debit,Others,2,February,6,Friday
+2026-02-07,Tejas Murugan P,88.0,debit,Others,2,February,6,Saturday
+2026-02-09,S O  Sujumon,240.0,debit,Others,2,February,7,Monday
+2026-02-09,White House Pan,33.0,debit,Others,2,February,7,Monday
+2026-02-09,Mohammad  Alam,57.0,debit,Others,2,February,7,Monday
+2026-02-10,Pradeep Enterpr,195.0,debit,Others,2,February,7,Tuesday
+2026-02-10,Mr. Pramod Kuma,60.0,debit,Others,2,February,7,Tuesday
+2026-02-10,Mohammad  Alam,60.0,debit,Others,2,February,7,Tuesday
+2026-02-11,Asadul Hoque,40.0,debit,Others,2,February,7,Wednesday
+2026-02-11,S O  Sujumon,120.0,debit,Others,2,February,7,Wednesday
+2026-02-11,Chandrika Yadav,42.0,debit,Others,2,February,7,Wednesday
+2026-02-11,Taj Cateres,100.0,debit,Others,2,February,7,Wednesday
+2026-02-12,Google India Di,220.9,debit,Others,2,February,7,Thursday
+2026-02-12,Airtel,379.0,debit,Utilities,2,February,7,Thursday
+2026-02-12,Mr. Pramod Kuma,40.0,debit,Others,2,February,7,Thursday
+2026-02-12,Uc Traders,10.0,debit,Others,2,February,7,Thursday
+2026-02-12,Saddam Husain,60.0,debit,Others,2,February,7,Thursday
+2026-02-12,New Chinmay Med,10.0,debit,Others,2,February,7,Thursday
+2026-02-13,Mr. Pramod Kuma,40.0,debit,Others,2,February,7,Friday
+2026-02-13,Anita  Devi,20.0,debit,Others,2,February,7,Friday
+2026-02-13,Madwits Pro,125.0,debit,Others,2,February,7,Friday
+2026-02-13,Shyam Stationer,50.0,debit,Others,2,February,7,Friday
+2026-02-13,Madwits Pro,25.0,debit,Others,2,February,7,Friday
+2026-02-13,Karotra Laljibh,15.0,debit,Others,2,February,7,Friday
+2026-02-13,Mr. Pramod Kuma,40.0,debit,Others,2,February,7,Friday
+2026-02-14,Ak The Fries Wo,110.0,debit,Others,2,February,7,Saturday
+2026-02-14,Tejas Murugan P,55.0,debit,Others,2,February,7,Saturday
+2026-02-14,Hari Kishan Rai,100.0,debit,Others,2,February,7,Saturday
+2026-02-14,White House Pan,52.0,debit,Others,2,February,7,Saturday
+2026-02-14,Zepto Marketpla,116.5,debit,Groceries,2,February,7,Saturday
+2026-02-14,Indian Railways,30.0,debit,Others,2,February,7,Saturday
+2026-02-14,Nilesh Ananada,50.0,debit,Others,2,February,7,Saturday
+2026-02-14,Kanojia Bharat,19.0,debit,Others,2,February,7,Saturday
+2026-02-14,Inamdar Sajid H,350.0,debit,Others,2,February,7,Saturday
+2026-02-14,Prashuram Shiva,52.0,debit,Others,2,February,7,Saturday
+2026-02-14,Gajaram,10.0,debit,Others,2,February,7,Saturday
+2026-02-14,White House Pan,42.0,debit,Others,2,February,7,Saturday
+2026-02-15,Shahid Yogesh P,150.0,debit,Others,2,February,7,Sunday
+2026-02-15,Rugved Chetan C,110.0,debit,Others,2,February,7,Sunday
+2026-02-15,Hari Kishan Rai,25.0,debit,Others,2,February,7,Sunday
+2026-02-15,Chandrika Yadav,70.0,debit,Others,2,February,7,Sunday
+2026-02-15,Chandrika Yadav,4.0,debit,Others,2,February,7,Sunday
+2026-02-15,Radheshkumarsah,52.0,debit,Others,2,February,7,Sunday
+2026-02-16,Shivam  Pandey,2100.0,debit,Others,2,February,8,Monday
+2026-02-16,Shahid Yogesh P,150.0,debit,Others,2,February,8,Monday
+2026-02-16,Sohanlal,20.0,debit,Others,2,February,8,Monday
+2026-02-16,White House Pan,48.0,debit,Others,2,February,8,Monday
+2026-02-16,Big Tree Entert,670.8,debit,Others,2,February,8,Monday
+2026-02-16,White House Pan,22.0,debit,Others,2,February,8,Monday
+2026-02-16,Mohammad  Alam,52.0,debit,Others,2,February,8,Monday
+2026-02-16,Anita  Devi,40.0,debit,Others,2,February,8,Monday
+2026-02-18,Apple Media Ser,75.0,debit,Others,2,February,8,Wednesday
+2026-02-18,Mohammad  Alam,40.0,debit,Others,2,February,8,Wednesday
+2026-02-19,Mohammad  Alam,40.0,debit,Others,2,February,8,Thursday
+2026-02-20,Apple Media Ser,119.0,debit,Others,2,February,8,Friday
+2026-02-20,Shahid Yogesh P,200.0,debit,Others,2,February,8,Friday
+2026-02-20,Mr Bharat Datta,90.0,debit,Others,2,February,8,Friday
+2026-02-20,Balwant Patel,60.0,debit,Others,2,February,8,Friday
+2026-02-20,Tata Play Limit,401.0,debit,Others,2,February,8,Friday
+2026-02-20,Shivam  Pandey,138.0,debit,Others,2,February,8,Friday
+2026-02-21,CHRG:SMS ALERT FEE FOR THE MONTH OF JAN2,1.87,debit,Others,2,February,8,Saturday
+2026-02-21,Mohd Kais,331.0,debit,Others,2,February,8,Saturday
+2026-02-21,Jiledar Lalta P,53.0,debit,Others,2,February,8,Saturday
+2026-02-21,Shahid Yogesh P,100.0,debit,Others,2,February,8,Saturday
+2026-02-21,White House Pan,44.0,debit,Others,2,February,8,Saturday
+2026-02-22,K N Pan Shop,60.0,debit,Others,2,February,8,Sunday
+2026-02-23,S O  Sujumon,30.0,debit,Others,2,February,9,Monday
+2026-02-23,Mohammad  Alam,10.0,debit,Others,2,February,9,Monday
+2026-02-23,Hitesh Kesha Ch,55.0,debit,Others,2,February,9,Monday
+2026-02-24,White House Pan,42.0,debit,Others,2,February,9,Tuesday
+2026-02-24,Tejas Murugan P,70.0,debit,Others,2,February,9,Tuesday
+2026-02-25,Mr. Pramod Kuma,40.0,debit,Others,2,February,9,Wednesday
+2026-02-25,Mr  Shabir Shau,210.0,debit,Others,2,February,9,Wednesday
+2026-02-25,Mr. Pramod Kuma,60.0,debit,Others,2,February,9,Wednesday
+2026-02-25,Anita  Devi,63.0,debit,Others,2,February,9,Wednesday
+2026-02-25,Shahid Yogesh P,100.0,debit,Others,2,February,9,Wednesday
+2026-02-26,Mrs Meera Bhask,40.0,debit,Others,2,February,9,Thursday
+2026-02-26,Shahid Yogesh P,120.0,debit,Others,2,February,9,Thursday
+2026-02-27,White House Pan,52.0,debit,Others,2,February,9,Friday
+2026-02-27,Mohammad  Alam,20.0,debit,Others,2,February,9,Friday
+2026-02-27,Mohammad Alam,20.0,debit,Others,2,February,9,Friday
+2026-02-27,Mrs Meera Bhask,40.0,debit,Others,2,February,9,Friday
+2026-02-27,Shahid Yogesh P,100.0,debit,Others,2,February,9,Friday
+2026-02-28,Anil Kumar Pal,20.0,debit,Others,2,February,9,Saturday
+2026-02-28,Mrs Hamdan M Kh,211.0,debit,Others,2,February,9,Saturday
+2026-02-28,Rapido,148.0,debit,Transport,2,February,9,Saturday
+2026-03-02,DEBIT CARD ANNUAL FEE X8420 FOR 2026,399.0,debit,Others,3,March,10,Monday
+2026-03-02,Indian Railways,30.0,debit,Others,3,March,10,Monday
+2026-03-02,Rapido,30.0,debit,Transport,3,March,10,Monday
+2026-03-02,Mcdonalds,78.96,debit,Others,3,March,10,Monday
+2026-03-02,Mcdonalds,68.98,debit,Others,3,March,10,Monday
+2026-03-02,Mcdonalds,109.01,debit,Others,3,March,10,Monday
+2026-03-02,Dharmendra Kuma,23.0,debit,Others,3,March,10,Monday
+2026-03-02,Siraj Abdul Sam,255.0,debit,Others,3,March,10,Monday
+2026-03-02,Mohd Mustafa Kh,137.0,debit,Others,3,March,10,Monday
+2026-03-02,Mr. Pramod Kuma,62.0,debit,Others,3,March,10,Monday
+2026-03-02,Anita  Devi,70.0,debit,Others,3,March,10,Monday
+2026-03-03,Purple Parrots,50.0,debit,Others,3,March,10,Tuesday
+2026-03-03,Mr. Pramod Kuma,63.0,debit,Others,3,March,10,Tuesday
+2026-03-03,Uc Traders,70.0,debit,Others,3,March,10,Tuesday
+2026-03-04,Chandrika Yadav,44.0,debit,Others,3,March,10,Wednesday
+2026-03-04,Radheshkumarsah,95.0,debit,Others,3,March,10,Wednesday
+2026-03-04,Mohammad Sahil,60.0,debit,Others,3,March,10,Wednesday
+2026-03-06,Iccl Groww Auto,1000.0,debit,Others,3,March,10,Friday
+2026-03-06,Tejas Murugan P,110.0,debit,Others,3,March,10,Friday
+2026-03-06,Tejas Murugan P,50.0,debit,Others,3,March,10,Friday
+2026-03-06,Shahid Yogesh P,150.0,debit,Others,3,March,10,Friday
+2026-03-06,Mohammad  Alam,40.0,debit,Others,3,March,10,Friday
+2026-03-06,Anita  Devi,42.0,debit,Others,3,March,10,Friday
+2026-03-07,Tejas Murugan P,55.0,debit,Others,3,March,10,Saturday
+2026-03-07,Shivam  Pandey,1440.0,debit,Others,3,March,10,Saturday
+2026-03-08,Ranjani Mithile,720.0,debit,Others,3,March,10,Sunday
+2026-03-08,Hari Kishan Rai,730.0,debit,Others,3,March,10,Sunday
+2026-03-09,Blinkit,346.0,debit,Groceries,3,March,11,Monday
+2026-03-10,Rajababu Tarun,40.0,debit,Others,3,March,11,Tuesday
+2026-03-10,Asadul Hoque,30.0,debit,Others,3,March,11,Tuesday
+2026-03-10,Hritik Prakash,90.0,debit,Others,3,March,11,Tuesday
+2026-03-10,Biryani Baithak,200.0,debit,Others,3,March,11,Tuesday
+2026-03-10,K3 Foods,457.0,debit,Others,3,March,11,Tuesday
+2026-03-10,Santosh Sadhura,22.0,debit,Others,3,March,11,Tuesday
+2026-03-10,Mrs Shamim Banu,216.0,debit,Others,3,March,11,Tuesday
+2026-03-10,Ulhas Rajaram K,20.0,debit,Others,3,March,11,Tuesday
+2026-03-10,Ulhas Rajaram K,20.0,debit,Others,3,March,11,Tuesday
+2026-03-10,Rakesh Bhagwati,141.0,debit,Others,3,March,11,Tuesday
+2026-03-11,Tejas Murugan P,55.0,debit,Others,3,March,11,Wednesday
+2026-03-11,Gokul Sweets An,40.0,debit,Others,3,March,11,Wednesday
+2026-03-11,Biryani Baithak,300.0,debit,Others,3,March,11,Wednesday
+2026-03-11,Nupoor Dewoo Da,90.0,debit,Others,3,March,11,Wednesday
+2026-03-11,Hemant Ishwar M,10.0,debit,Others,3,March,11,Wednesday
+2026-03-12,Google India Di,220.9,debit,Others,3,March,11,Thursday
+2026-03-12,Shahid Yogesh P,150.0,debit,Others,3,March,11,Thursday
+2026-03-12,Mr. Pramod Kuma,40.0,debit,Others,3,March,11,Thursday
+2026-03-12,Mohammad  Alam,40.0,debit,Others,3,March,11,Thursday
+2026-03-12,Google India Di,380.9,debit,Others,3,March,11,Thursday
+2026-03-13,Playsole Gaming,80.0,debit,Others,3,March,11,Friday
+2026-03-13,Car Shine,15.0,debit,Others,3,March,11,Friday
+2026-03-13,Indian Railways,30.0,debit,Others,3,March,11,Friday
+2026-03-13,REM CHRG:SMS ALERT FEE FOR THE MONTH OF,10.7,debit,Others,3,March,11,Friday
+2026-03-13,Roppen Transpor,69.0,debit,Others,3,March,11,Friday
+2026-03-13,Dharmendra Kuma,21.0,debit,Others,3,March,11,Friday
+2026-03-13,Mc Donalds,279.91,debit,Others,3,March,11,Friday
+2026-03-13,Dharmendra Kuma,22.0,debit,Others,3,March,11,Friday
+2026-03-13,Rapido,150.0,debit,Transport,3,March,11,Friday
+2026-03-13,Mr. Pramod Kuma,40.0,debit,Others,3,March,11,Friday
+2026-03-14,Bk Washing Cent,150.0,debit,Others,3,March,11,Saturday
+2026-03-14,Atharva Car Car,20.0,debit,Others,3,March,11,Saturday
+2026-03-14,Mohammad  Alam,21.0,debit,Others,3,March,11,Saturday
+2026-03-14,Sipahy Prasad,200.0,debit,Others,3,March,11,Saturday
+2026-03-14,Batulz Cakes An,350.0,debit,Others,3,March,11,Saturday
+2026-03-14,Gaming Kingdom,160.0,debit,Others,3,March,11,Saturday
+2026-03-14,Krishna Book Ce,335.0,debit,Others,3,March,11,Saturday
+2026-03-14,Sukdeb R Maiti,600.0,debit,Others,3,March,11,Saturday
+2026-03-14,Shahid Yogesh P,250.0,debit,Others,3,March,11,Saturday
+2026-03-14,Sambanna Kalapp,10.0,debit,Others,3,March,11,Saturday
+2026-03-16,CHRG:SMS ALERT FEE FOR THE MONTH OF FEB2,19.82,debit,Others,3,March,12,Monday
+2026-03-16,Mohammad  Alam,22.0,debit,Others,3,March,12,Monday
+2026-03-16,Sukdeb R Maiti,220.0,debit,Others,3,March,12,Monday
+2026-03-16,Mohammad  Alam,23.0,debit,Others,3,March,12,Monday
+2026-03-17,Apple Media Ser,75.0,debit,Others,3,March,12,Tuesday
+2026-03-17,As Pets Salon,900.0,debit,Others,3,March,12,Tuesday
+2026-03-17,Naufil Amin Pat,100.0,debit,Others,3,March,12,Tuesday
+2026-03-17,Javed Ali Khair,26.0,debit,Others,3,March,12,Tuesday
+2026-03-17,Burger King,195.3,debit,Others,3,March,12,Tuesday
+2026-03-17,Rajendra Firtur,1000.0,debit,Others,3,March,12,Tuesday
+2026-03-17,Mohammad  Alam,40.0,debit,Others,3,March,12,Tuesday
+2026-03-18,Mahesh Sah,30.0,debit,Others,3,March,12,Wednesday
+2026-03-18,Mohammad  Alam,21.0,debit,Others,3,March,12,Wednesday
+2026-03-18,Mohammad  Alam,60.0,debit,Others,3,March,12,Wednesday
+2026-03-19,Indian Railways,10.0,debit,Others,3,March,12,Thursday
+2026-03-19,Shree Siddhi Vi,200.0,debit,Others,3,March,12,Thursday
+2026-03-19,Ramesh Avtade,200.0,debit,Others,3,March,12,Thursday
+2026-03-19,Rajaneesh,300.0,debit,Others,3,March,12,Thursday
+2026-03-19,R Enkay Collect,400.0,debit,Others,3,March,12,Thursday
+2026-03-19,Mcdonalds,68.98,debit,Others,3,March,12,Thursday
+2026-03-19,Mr Gautam Vimle,30.0,debit,Others,3,March,12,Thursday
+2026-03-19,Braj Kishor Cho,170.0,debit,Others,3,March,12,Thursday
+2026-03-19,Mr. Pramod Kuma,40.0,debit,Others,3,March,12,Thursday
+2026-03-19,Shahid Yogesh P,180.0,debit,Others,3,March,12,Thursday
+2026-03-20,Anita  Devi,43.0,debit,Others,3,March,12,Friday
+2026-03-21,Apple Media Ser,5.0,debit,Others,3,March,12,Saturday
+2026-03-21,Mohammad  Alam,1.0,debit,Others,3,March,12,Saturday
+2026-03-23,Mr Suresh Chand,5.0,debit,Others,3,March,13,Monday
+2026-03-23,Rehan Caterera,280.0,debit,Others,3,March,13,Monday
+2026-03-24,Shahid Yogesh P,150.0,debit,Others,3,March,13,Tuesday
+2026-03-24,Sachin,80.0,debit,Others,3,March,13,Tuesday
+2026-03-24,Mr. Pramod Kuma,42.0,debit,Others,3,March,13,Tuesday
+2026-03-24,Shahid Yogesh P,700.0,debit,Others,3,March,13,Tuesday
+2026-03-24,Hari Kishan Rai,30.0,debit,Others,3,March,13,Tuesday
+2026-03-25,Kundalik Dutta,40.0,debit,Others,3,March,13,Wednesday
+2026-03-25,Hari Kishan Rai,150.0,debit,Others,3,March,13,Wednesday
+2026-03-27,Powerlook Appar,3122.0,debit,Others,3,March,13,Friday
+2026-03-27,Mr. Pramod Kuma,40.0,debit,Others,3,March,13,Friday
+2026-03-28,Blurgvillage,1299.0,debit,Others,3,March,13,Saturday
+2026-03-28,Indian Railways,29.1,debit,Others,3,March,13,Saturday
+2026-03-28,Roppen Transpor,56.0,debit,Others,3,March,13,Saturday
+2026-03-28,Gaikwad Manoj D,52.0,debit,Others,3,March,13,Saturday
+2026-03-28,Sujata Gherade,165.0,debit,Others,3,March,13,Saturday
+2026-03-28,Rapido,90.0,debit,Transport,3,March,13,Saturday
+2026-03-28,Shahid Yogesh P,500.0,debit,Others,3,March,13,Saturday
+2026-03-29,Divit Ashish Gh,100.0,debit,Others,3,March,13,Sunday
+2026-03-30,Ekart,886.0,debit,Others,3,March,14,Monday
+2026-03-31,Shahid Yogesh P,526.0,debit,Others,3,March,14,Tuesday
+2026-03-31,Mohammad Alam,1.0,debit,Others,3,March,14,Tuesday
+2026-04-01,Ronak Sagar Meh,90.0,debit,Others,4,April,14,Wednesday
+2026-04-01,Delhi Darbar Za,370.0,debit,Others,4,April,14,Wednesday
+2026-04-01,Shahid Yogesh P,650.0,debit,Others,4,April,14,Wednesday
+2026-04-01,Sukdeb R Maiti,20.0,debit,Others,4,April,14,Wednesday
+2026-04-01,Mr. Pramod Kuma,84.0,debit,Others,4,April,14,Wednesday
+2026-04-02,Asadul Hoque,40.0,debit,Others,4,April,14,Thursday
+2026-04-03,Mr. Pramod Kuma,40.0,debit,Others,4,April,14,Friday
+2026-04-03,Mohammad  Alam,42.0,debit,Others,4,April,14,Friday
+2026-04-04,Mohammad Alam,21.0,debit,Others,4,April,14,Saturday
+2026-04-04,Zepto Marketpla,356.0,debit,Groceries,4,April,14,Saturday
+2026-04-04,Indian Railways,29.1,debit,Others,4,April,14,Saturday
+2026-04-04,Dharmendra Kuma,22.0,debit,Others,4,April,14,Saturday
+2026-04-04,Crossword Book,195.0,debit,Others,4,April,14,Saturday
+2026-04-05,Shivam  Pandey,1500.0,debit,Others,4,April,14,Sunday
+2026-04-05,Shivam  Pandey,250.0,debit,Others,4,April,14,Sunday
+2026-04-06,Rapido,65.0,debit,Transport,4,April,15,Monday
+2026-04-07,Tejas Murugan P,450.0,debit,Others,4,April,15,Tuesday
+2026-04-07,Hari Kishan Rai,110.0,debit,Others,4,April,15,Tuesday
+2026-04-08,Tejas Murugan P,40.0,debit,Others,4,April,15,Wednesday
+2026-04-08,Shivam  Pandey,2000.0,debit,Others,4,April,15,Wednesday
+2026-04-09,Shivam  Pandey,10000.0,debit,Others,4,April,15,Thursday
+2026-04-09,Euronet Service,220.9,debit,Others,4,April,15,Thursday
+2026-04-11,Dhirendra,10.0,debit,Others,4,April,15,Saturday
+2026-04-11,Anita  Devi,72.0,debit,Others,4,April,15,Saturday
+2026-04-11,Shahid Yogesh P,200.0,debit,Others,4,April,15,Saturday
+2026-04-12,Mohd Sajjad Tab,40.0,debit,Others,4,April,15,Sunday
+2026-04-12,Mr Arun Kumar Y,200.0,debit,Others,4,April,15,Sunday
+2026-04-12,White House Pan,45.0,debit,Others,4,April,15,Sunday
+2026-04-13,White House Pan,52.0,debit,Others,4,April,16,Monday
+2026-04-13,Babita  Pandey,700.0,debit,Others,4,April,16,Monday
+2026-04-13,Zepto Marketpla,143.0,debit,Groceries,4,April,16,Monday
+2026-04-13,Hitesh Kesha Ch,45.0,debit,Others,4,April,16,Monday
+2026-04-13,Blinkit,60.0,debit,Groceries,4,April,16,Monday
+2026-04-14,Shivam  Pandey,6000.0,debit,Others,4,April,16,Tuesday
+2026-04-14,Delhi Darbar Za,240.0,debit,Others,4,April,16,Tuesday
+2026-04-14,Shahid Yogesh P,642.0,debit,Others,4,April,16,Tuesday
+2026-04-15,Mohammad  Alam,20.0,debit,Others,4,April,16,Wednesday
+2026-04-15,Anita  Devi,50.0,debit,Others,4,April,16,Wednesday
+2026-04-16,Shivam  Pandey,300.0,debit,Others,4,April,16,Thursday
+2026-04-16,Shivam  Pandey,50.0,debit,Others,4,April,16,Thursday
+2026-04-16,Shivam  Pandey,20.0,debit,Others,4,April,16,Thursday
+2026-04-16,Zepto Marketpla,122.0,debit,Groceries,4,April,16,Thursday
+2026-04-17,Tejas Murugan P,50.0,debit,Others,4,April,16,Friday
+2026-04-17,Apple Media Ser,75.0,debit,Others,4,April,16,Friday
+2026-04-17,Rugved Chetan C,200.0,debit,Others,4,April,16,Friday
+2026-04-18,Hari Kishan Rai,500.0,debit,Others,4,April,16,Saturday
+2026-04-18,Euronet Service,39.0,debit,Others,4,April,16,Saturday
+2026-04-18,Mohammad  Alam,60.0,debit,Others,4,April,16,Saturday
+2026-04-18,Babban Kumar Si,240.0,debit,Others,4,April,16,Saturday
+2026-04-18,Hari Kishan Rai,3600.0,debit,Others,4,April,16,Saturday
+2026-04-20,Rai Laxmi Anil,2200.0,debit,Others,4,April,17,Monday
+2026-04-21,Tata Play Limit,427.0,debit,Others,4,April,17,Tuesday
+2026-04-21,Shahid Yogesh P,250.0,debit,Others,4,April,17,Tuesday
+2026-04-22,CHRG:SMS ALERT FEE FOR THE MONTH OF MAR2,22.48,debit,Others,4,April,17,Wednesday
+2026-04-22,The Prashant Ca,140.0,debit,Others,4,April,17,Wednesday
+2026-04-23,Prasad Rajaram,150.0,debit,Others,4,April,17,Thursday
+2026-04-23,Tejas Murugan P,60.0,debit,Others,4,April,17,Thursday
+2026-04-23,Gupta Sandwich,80.0,debit,Others,4,April,17,Thursday
+2026-04-24,Achal General S,48.0,debit,Others,4,April,17,Friday
+2026-04-24,Shafiq Chicken,340.0,debit,Others,4,April,17,Friday
+2026-04-24,Seema  Rai,300.0,debit,Others,4,April,17,Friday
+2026-04-24,Mohammad  Alam,20.0,debit,Others,4,April,17,Friday
+2026-04-24,Mr. Pramod Kuma,60.0,debit,Others,4,April,17,Friday
+2026-04-24,Anita  Devi,42.0,debit,Others,4,April,17,Friday
+2026-04-25,Rapido,76.0,debit,Transport,4,April,17,Saturday
+2026-04-25,Ronak Sagar Meh,45.0,debit,Others,4,April,17,Saturday
+2026-04-25,Mohammad Jamim,40.0,debit,Others,4,April,17,Saturday
+2026-04-25,Tejas Murugan P,75.0,debit,Others,4,April,17,Saturday
+2026-04-25,Hari Kishan Rai,40.0,debit,Others,4,April,17,Saturday
+2026-04-25,Shahid Yogesh P,110.0,debit,Others,4,April,17,Saturday
+2026-04-26,Urban Chill,10.0,debit,Others,4,April,17,Sunday
+2026-04-27,Mohammad  Alam,20.0,debit,Others,4,April,18,Monday
+2026-04-27,Rugved Chetan C,40.0,debit,Others,4,April,18,Monday
+2026-04-28,Mr. Pramod Kuma,60.0,debit,Others,4,April,18,Tuesday
+2026-04-28,Anita  Devi,43.0,debit,Others,4,April,18,Tuesday
+2026-04-29,Shahid Yogesh P,609.0,debit,Others,4,April,18,Wednesday
+2026-04-29,Achal General S,25.0,debit,Others,4,April,18,Wednesday
+2026-04-29,Chandrika Yadav,42.0,debit,Others,4,April,18,Wednesday
+2026-04-30,Mohammad  Alam,30.0,debit,Others,4,April,18,Thursday
+2026-04-30,Hari Kishan Rai,100.0,debit,Others,4,April,18,Thursday
+2026-04-30,Mohammad  Alam,43.0,debit,Others,4,April,18,Thursday
+2026-04-30,Health Care Che,20.0,debit,Others,4,April,18,Thursday
+2026-05-01,Hari Kishan Rai,20.0,debit,Others,5,May,18,Friday
+2026-05-02,Anita  Devi,2.0,debit,Others,5,May,18,Saturday
+2026-05-02,Madwits Pro,105.0,debit,Others,5,May,18,Saturday
+2026-05-03,Delhi Darbar Za,480.0,debit,Others,5,May,18,Sunday
+2026-05-03,Hari Kishan Rai,750.0,debit,Others,5,May,18,Sunday
+2026-05-03,Rugved Chetan C,65.0,debit,Others,5,May,18,Sunday
+2026-05-03,Jinaam_Stores_,50.0,debit,Others,5,May,18,Sunday
+2026-05-03,Mohammad  Alam,63.0,debit,Others,5,May,18,Sunday
+2026-05-03,Mak Cakes,400.0,debit,Others,5,May,18,Sunday
+2026-05-03,Mamta Stationer,56.0,debit,Others,5,May,18,Sunday
+2026-05-04,Blinkit,330.0,debit,Groceries,5,May,19,Monday
+2026-05-04,Blinkit,555.0,debit,Groceries,5,May,19,Monday
+2026-05-04,Kailash Book St,180.0,debit,Others,5,May,19,Monday
+2026-05-04,Kailash Book St,75.0,debit,Others,5,May,19,Monday
